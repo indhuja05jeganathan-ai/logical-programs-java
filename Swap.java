@@ -1,0 +1,16 @@
+class swap
+{
+    public static void main(String[]args)
+    {
+        int a=35678,b=78909,c;
+        a=a+b;
+        b=a-b;
+        a=a-b;
+
+        System.out.println(a);
+        System.out.println(b);
+
+
+
+    }
+}
